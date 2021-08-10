@@ -26,3 +26,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size: 21px;
 color: gray;
 }
+.foot{
+    text-align: right;
+    color: gray;
+}
